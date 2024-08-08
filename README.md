@@ -47,9 +47,7 @@ To get started with the project, follow these steps:
 
 Here's a quick demo of the application:
 
-[![Flip Clock Flutter Demo](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
-
-Replace `VIDEO_ID_HERE` with the ID of your YouTube video.
+<img src="https://github.com/user-attachments/assets/62d89941-22c3-4893-8ca6-5d54e6925deb" alt="Simulator Screenshot - iPhone 15 Pro Max - 2024-08-08 at 12 14 19" width="600"/>
 
 ## Contributing
 
