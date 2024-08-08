@@ -47,7 +47,9 @@ To get started with the project, follow these steps:
 
 Here's a quick demo of the application:
 
-<img src="https://github.com/user-attachments/assets/62d89941-22c3-4893-8ca6-5d54e6925deb" alt="Simulator Screenshot - iPhone 15 Pro Max - 2024-08-08 at 12 14 19" width="600"/>
+https://github.com/user-attachments/assets/f5277e92-aa86-4455-8724-7e02b3c62b10
+
+
 
 ## Contributing
 
